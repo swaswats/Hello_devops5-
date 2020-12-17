@@ -22,10 +22,3 @@ echo 'deploying application!'
  }
  }
  
- 
- 
- 
- 
-  Node {
- // groovy script
- 
